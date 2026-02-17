@@ -37,7 +37,7 @@ struct ProfileView: View {
                         .padding(.horizontal)
                         
                         VStack(alignment: .leading,spacing: 4) {
-                            Text("Ahmet Aksoy")
+                            Text("Ahmet AKSOY")
                                 .font(.footnote)
                             Text("✨ Baün | CENG ✨")
                                 .font(.footnote)
